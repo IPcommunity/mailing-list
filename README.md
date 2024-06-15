@@ -8,6 +8,6 @@ if you = subscribed to the list
 
 else
   
-  send email to  "ip-community@groupes.renater.fr", bit you will be moderated
+  send email to  "ip-community@groupes.renater.fr", but you will be moderated
 
 end
