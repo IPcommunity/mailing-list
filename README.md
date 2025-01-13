@@ -1,4 +1,4 @@
-To subscribe the ip-community@groupes.renater.fr mailing list, just read the "how to" pdf
+To subscribe the ip-community@groupes.renater.fr mailing list, just read the "how to" pdf or go to https://groupes.renater.fr/sympa/subscribe/ip-community 
 
 Algorithm to send an email to the list:
 
